@@ -29,8 +29,8 @@ The game will be pretty simple to control so there will be a controls screen, bu
 The player will have to allocate their bullet amount properly so as not to run out when it's nessisary.  The player will also have to learn the bosses attack patterns to effectively dodge their attacks.  Certain bullets could also have different effects on the bosses and have different attack patterns, so you have to figure out which bullets are most effective against each boss.
 
 ## Screenshots
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/screenshot1.png "screenshot1")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/screenshot2.png "screenshot2")
+![alt text](https://github.com/Peekz1025/IGME_230/blob/master/screenshot1.png "screenshot1")
+![alt text](https://github.com/Peekz1025/IGME_230/blob/master/screenshot2.png "screenshot2")
 
 ## About the Developer
 Robby Piwko
